@@ -1,0 +1,9 @@
+Buatkan issue.md yang berisi planning untuk membuat ini:
+
+Buatkan project di folder ini menggunakan Bun dan gunakan dependecy dibawah ini:
+- ElysiaJS
+- Drizzle
+- MySQL
+
+Jangan terlalu low level atau detail cukup instruksikan secara high level
+Nanti dokumen planning-nya akan digunakan oleh Programmer atau model AI yang lebih murah untuk diimplementasikan.
