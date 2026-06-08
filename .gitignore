@@ -1,6 +1,7 @@
 # Credentials and sensitive files
 tekon.txt
 token.txt
+promt.txt
 .env
 .env.*
 
