@@ -1,0 +1,13 @@
+# Credentials and sensitive files
+tekon.txt
+token.txt
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+bun.lockb
+
+# OS files
+.DS_Store
+Thmubs.db
